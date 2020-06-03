@@ -1,0 +1,6 @@
+﻿PROGRAM SPEC;
+
+BEGIN
+	WRITELN (chr(65));
+	WRITELN (ord('A'));
+END.
